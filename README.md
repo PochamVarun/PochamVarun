@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PochamVarun
-- 👀 I’m Jobless and interested in learning new technologies
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently figuring out how to make new stuff!
 - 💞️ I’m familiar with web development.
 - ✨ I am very much interested in working on all types of project and will work towards improving my repertoire 😀.    
